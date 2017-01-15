@@ -32,9 +32,9 @@ Users should be able to post questions and seek clarifications
 UserID, Question, PostedOn, Answer, AnsweredOn, Status (Open, Answered, Archived)
 
 ## Use cases	
-As an anonymous visitor I should be able to understand what this site is all about and probably drive towards signing up
-As a registered user I should be able to change password, evaluate subscription options, subscribe, post queries
-As a subscriber	should be able to perform all functions as a user, should also be able to view my subscription details, access content subscribed for, download content
-As an editor I should be able to upload content, tag for search, answer queries
-As an accounts person I should be able track subscriptions, follow up for renewals
-As an admin I should	maintain different users
++ As an anonymous visitor I should be able to understand what this site is all about and probably drive towards signing up
++ As a registered user I should be able to change password, evaluate subscription options, subscribe, post queries
++ As a subscriber	should be able to perform all functions as a user, should also be able to view my subscription details, access content subscribed for, download content
++ As an editor I should be able to upload content, tag for search, answer queries
++ As an accounts person I should be able track subscriptions, follow up for renewals
++ As an admin I should	maintain different users
